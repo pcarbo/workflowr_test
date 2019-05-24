@@ -1,6 +1,3 @@
 # workflowr_test
 
-A [workflowr][] project.
-
-[workflowr]: https://github.com/jdblischak/workflowr
-
+This is a repository for testing improvements the workflowr R package.
